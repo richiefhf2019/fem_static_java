@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fem_static:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fem_static_jar</output-path>
+    <root id="archive" name="fem_static.jar">
+      <element id="module-output" name="fem_static" />
+    </root>
+  </artifact>
+</component>
